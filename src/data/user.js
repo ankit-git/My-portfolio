@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Ankit",
+		name: "Ankit Mishra",
+		email: "ankitashok.am@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -16,13 +16,13 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Devops Engineer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			" I am a DevOps Engineer focused on bridging the gap between software development and IT operations. My work involves automating, integrating, and streamlining the entire software delivery process—helping teams deliver code faster, more reliably, and with higher quality. I specialize in setting up and managing CI/CD pipelines, orchestrating infrastructure as code, monitoring systems, and ensuring deployment processes are secure and efficient. My approach emphasizes collaboration, continuous improvement, and leveraging automation to improve system reliability and accelerate innovation.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Ankit. I live in Mumbai, where I design the future.",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
